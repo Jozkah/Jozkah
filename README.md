@@ -129,7 +129,7 @@ automatically.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jozkah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=F778BA&point=FFFFFF&area=true&area_color=1F6FEB" width="95%" alt="Activity graph">
+  <img src="https://ghchart.rshah.org/58A6FF/Jozkah" width="95%" alt="Activity graph">
 </p>
 
 <!-- Snake animation — requires the Platane/snk workflow (see setup notes) -->
@@ -161,6 +161,11 @@ SQLite history, scheduled overnight grid charging.
 
 **🖨️ [3d-print-calculator](https://github.com/Jozkah/3d-print-calculator)**
 Filament, time and cost estimation for print jobs.
+
+**🔥 [flint](https://github.com/Jozkah/flint)**
+A local-first agentic workspace — a fork of Jan, built as a desktop app with llama.cpp
+for on-device models and MCP for tool use.
+<sub>`TypeScript` · `Tauri` · `llama.cpp` · `MCP` · `Apache-2.0`</sub>
 
 <img src="https://raw.githubusercontent.com/Jozkah/Jozkah/main/assets/divider.svg" width="100%" alt="">
 
